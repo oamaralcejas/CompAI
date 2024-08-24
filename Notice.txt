@@ -1,0 +1,11 @@
+
+CompAI is © 2022 University of Luxembourg and is distributed under the GPL v3 license (read GPLv3.0.txt for details)
+
+Orlando Amaral Cejas (orlando.amaralcejas@uni.lu)
+
+Paper:
+  - "AI-enabled Automation for Completeness Checking of Privacy Policies", Transactions on Software Engineering Journal, 2022
+
+More details and resources are available at:
+https://figshare.com/articles/online_resource/CompAI/23676069
+https://figshare.com/articles/online_resource/Web_Scraper_Privacy_Policies_Dataset/26425306
