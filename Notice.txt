@@ -3,8 +3,10 @@ CompAI is © 2022 University of Luxembourg and is distributed under the GPL v3 l
 
 Orlando Amaral Cejas (orlando.amaralcejas@uni.lu)
 
-Paper:
+Papers:
   - "AI-enabled Automation for Completeness Checking of Privacy Policies", Transactions on Software Engineering Journal, 2022
+  - "CompAI: A Tool for GDPR Completeness Checking of Privacy Policies using Artificial Intelligence", 39th IEEE/ACM International Conference on Automated Software Engineering, 2024
+  - "Analyzing the Privacy Policies of Mobile Apps in the Wild against GDPR", 12th International Conference on Mobile Software Engineering and Systems, 2025
 
 More details and resources are available at:
 https://figshare.com/articles/online_resource/CompAI/23676069
